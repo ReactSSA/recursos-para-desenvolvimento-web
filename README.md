@@ -41,13 +41,19 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ## Legenda
 
+### Língua
+
 - :brazil: - conteúdo em português
 - :us: - conteúdo em inglês
+
+### Tipo de conteúdo
 
 - :page_facing_up: - post de blog
 - :book: - livro
 - :keyboard: - workshops interativos
 - :clipboard: - outras listagens
+
+### Nível de aprofundamento
 
 - :baby: - conteúdo para iniciantes
 - :school_satchel: - conteúdo intermediário
