@@ -103,6 +103,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Thinking in React - Workshop NodeSchool](https://github.com/asbjornenge/thinking-in-react) :us: :keyboard: :school_satchel:
 - [React Bits - A compilation of React Patterns, techniques, tips and tricks.](https://vasanthk.gitbooks.io/react-bits/) :us: :book: :school_satchel:
 - [React Patterns - Padrões básicos para React](https://reactpatterns.com/) :us: :page_facing_up: :baby:
+- [React from Zero - A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero) :us: :keyboard: :baby:
 
 #### React Native
 - [Os 3 passos para criar templates customizados para RN](https://medium.com/reactbrasil/os-3-passos-para-criar-templates-customizados-para-react-native-44b7bdecb161) :brazil: :page_facing_up:
