@@ -27,6 +27,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
             - [Redux](#redux)
             - [MobX](#mobx)
     - [Ferramentas](#ferramentas)
+        - [GraphQL](#graphql)
         - [Web APIs](#web-apis)
             - [Web Audio](#web-audio)
         - [Linters](#linters)
@@ -81,6 +82,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 #### SASS
 - [Learn SASS - Workshop NodeSchool](https://github.com/workshopper/learn-sass) :us: :keyboard:
+
 #### Less
 - [LESS is more - Workshop NodeSchool](https://github.com/gnerkus/less-is-more) :us: :keyboard:
 
@@ -104,6 +106,10 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [React Bits - A compilation of React Patterns, techniques, tips and tricks.](https://vasanthk.gitbooks.io/react-bits/) :us: :book: :school_satchel:
 - [React Patterns - Padrões básicos para React](https://reactpatterns.com/) :us: :page_facing_up: :baby:
 - [React from Zero - A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero) :us: :keyboard: :baby:
+- [Estruturando projetos e nomeando componentes](https://medium.com/reactbrasil/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11) :brazil: :page_facing_up: :school_satchel:
+- [Renderização condicional em React](https://medium.com/reactbrasil/renderiza%C3%A7%C3%A3o-condicional-em-react-bb8c16dddd6f) :brazil: :page_facing_up: :baby:
+- [Como utilizar Error Boundaries do React](https://medium.com/reactbrasil/como-utilizar-error-boundaries-do-react-3579f040f7f1) :brazil: :page_facing_up: :school_satchel:
+- [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby:
 
 #### React Native
 - [Os 3 passos para criar templates customizados para RN](https://medium.com/reactbrasil/os-3-passos-para-criar-templates-customizados-para-react-native-44b7bdecb161) :brazil: :page_facing_up:
@@ -113,13 +119,16 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Gerenciamento de estado
 
 #### Redux
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [Iniciando com Redux em 9 passos](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) :brazil: :page_facing_up:
 
 #### MobX
 - [Uma introdução a MobX](https://victormagalhaes.codes/post/mobx-tutorial/) :brazil: :page_facing_up:
 
-
 ## Ferramentas
+
+### GraphQL
+
+- [How to GraphQL](https://www.howtographql.com/basics/0-introduction/) :us: :keyboard:
 
 ### Web APIs
 
