@@ -9,6 +9,12 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Recursos para desenvolvimento web](#recursos-para-desenvolvimento-web)
     - [Sumário](#sum%C3%A1rio)
     - [Legenda](#legenda)
+        - [Língua](#l%C3%ADngua)
+        - [Tipo de conteúdo](#tipo-de-conte%C3%BAdo)
+        - [Nível de aprofundamento](#n%C3%ADvel-de-aprofundamento)
+    - [Teoria](#teoria)
+        - [Ciência da computação](#ci%C3%AAncia-da-computa%C3%A7%C3%A3o)
+        - [Engenharia de software](#engenharia-de-software)
     - [Linguagens](#linguagens)
         - [Javascript](#javascript)
             - [Typescript](#typescript)
@@ -52,6 +58,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - :page_facing_up: - post de blog
 - :book: - livro
 - :keyboard: - workshops interativos
+- :flower_playing_cards: - cartões [Anki](https://apps.ankiweb.net/) para estudo (metodologia usada pelo [Duolingo](https://www.duolingo.com/))
 - :clipboard: - outras listagens
 
 ### Nível de aprofundamento
@@ -59,10 +66,22 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - :baby: - conteúdo para iniciantes
 - :school_satchel: - conteúdo intermediário
 - :mortar_board: - conteúdo avançado
+- :woman_shrugging: - conteúdo misto
+
+## Teoria
+
+### Ciência da computação
+
+- [Desafios interativos de programação](https://github.com/donnemartin/interactive-coding-challenges) :us: / :flower_playing_cards: :keyboard: :clipboard: / :woman_shrugging:
+
+### Engenharia de software
+
+- [Cartilha de design de sistemas](https://github.com/donnemartin/system-design-primer) :brazil: :us: / :flower_playing_cards: :keyboard: :clipboard: / :school_satchel: :mortar_board:
 
 ## Linguagens
 
 ### Javascript
+
 - [Learning JavaScript Data Structures and Algorithms](https://github.com/loiane/javascript-datastructures-algorithms) :us: :book:
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/index.html)
 - [javascripting - Workshop NodeSchool](https://www.github.com/sethvincent/javascripting) :us: :keyboard:
@@ -72,27 +91,34 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Javascript best practices - Workshop NodeSchool](https://github.com/excellalabs/js-best-practices-workshopper) :us: :keyboard:
 
 #### Typescript
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### HTML
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### CSS
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 #### SASS
+
 - [Learn SASS - Workshop NodeSchool](https://github.com/workshopper/learn-sass) :us: :keyboard:
 
 #### Less
+
 - [LESS is more - Workshop NodeSchool](https://github.com/gnerkus/less-is-more) :us: :keyboard:
 
 ## Ambientes
 
 ### Node
+
 - [Learn You Node.js - Workshop NodeSchool](https://www.github.com/workshopper/learnyounode) :us: :keyboard:
 - [How to NPM - Workshop NodeSchool](https://github.com/workshopper/how-to-npm) :us: :keyboard:
 
 ### Electron
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ## Bibliotecas
@@ -100,6 +126,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### UI
 
 #### React
+
 - [React in Patterns](https://legacy.gitbook.com/book/krasimir/react-in-patterns/details) :us: :book:
 - [Learn you React - Workshop NodeSchool](https://github.com/tako-black/learnyoureact) :us: :keyboard: :baby:
 - [Thinking in React - Workshop NodeSchool](https://github.com/asbjornenge/thinking-in-react) :us: :keyboard: :school_satchel:
@@ -112,6 +139,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby:
 
 #### React Native
+
 - [Os 3 passos para criar templates customizados para RN](https://medium.com/reactbrasil/os-3-passos-para-criar-templates-customizados-para-react-native-44b7bdecb161) :brazil: :page_facing_up:
 - [React Native + CodePush: Atualizações rápidas sem burocracia](https://medium.com/reactbrasil/react-native-codepush-atualiza%C3%A7%C3%B5es-r%C3%A1pidas-sem-burocracia-1a880490aabc) :brazil: :page_facing_up:
 - [Instalando o react-native-fbsdk do jeito certo](https://medium.com/reactbrasil/instalando-o-react-native-fbsdk-do-jeito-certo-9f0fada5be4) :brazil: :page_facing_up:
@@ -119,9 +147,11 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Gerenciamento de estado
 
 #### Redux
+
 - [Iniciando com Redux em 9 passos](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) :brazil: :page_facing_up:
 
 #### MobX
+
 - [Uma introdução a MobX](https://victormagalhaes.codes/post/mobx-tutorial/) :brazil: :page_facing_up:
 
 ## Ferramentas
@@ -133,30 +163,38 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Web APIs
 
 #### Web Audio
+
 - [Web Audio School - Workshop NodeSchool](https://github.com/mmckegg/web-audio-school) :us: :keyboard:
 
 ### Linters
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### Bundlers
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### Versionamento
 
 #### Git
+
 - [Pro Git](https://git-scm.com/book/en/v2) :us: :book:
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) :us: :book:
 
 ## Outros conceitos
 
 ### Acessibilidade
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### Internacionalização
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### SEO
+
 > Ainda não temos nada. Tem algo a recomendar? Contribua!
 
 ### Performance Web
+
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard:
