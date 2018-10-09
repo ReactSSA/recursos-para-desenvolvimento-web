@@ -59,6 +59,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - :book: - livro
 - :keyboard: - workshops interativos
 - :flower_playing_cards: - cartões [Anki](https://apps.ankiweb.net/) para estudo (metodologia usada pelo [Duolingo](https://www.duolingo.com/))
+- :movie_camera: - aulas em video
 - :clipboard: - outras listagens
 
 ### Nível de aprofundamento
