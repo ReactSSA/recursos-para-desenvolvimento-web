@@ -209,3 +209,5 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Performance Web
 
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard: :free:
+
+- [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:
