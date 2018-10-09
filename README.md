@@ -168,7 +168,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Linters
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [VoidCanvas - A brief tutorial on ESLint](http://voidcanvas.com/brief-tutorial-on-eslint) :us: :page_facing_up:
 
 ### Bundlers
 
