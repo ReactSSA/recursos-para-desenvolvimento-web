@@ -33,6 +33,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
             - [Redux](#redux)
             - [MobX](#mobx)
     - [Ferramentas](#ferramentas)
+        - [DevTools](#devtools)
         - [GraphQL](#graphql)
         - [Web APIs](#web-apis)
             - [Web Audio](#web-audio)
@@ -161,6 +162,10 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Uma introdução a MobX](https://victormagalhaes.codes/post/mobx-tutorial/) :brazil: :page_facing_up: :free:
 
 ## Ferramentas
+
+### DevTools
+- [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/) :us: :movie_camera: :heavy_dollar_sign:
+
 
 ### GraphQL
 
