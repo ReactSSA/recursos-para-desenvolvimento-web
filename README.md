@@ -9,7 +9,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Recursos para desenvolvimento web](#recursos-para-desenvolvimento-web)
     - [Sumário](#sum%C3%A1rio)
     - [Legenda](#legenda)
-        - [Língua](#l%C3%ADngua)
+        - [Idioma](#idioma)
         - [Tipo de conteúdo](#tipo-de-conte%C3%BAdo)
         - [Nível de aprofundamento](#n%C3%ADvel-de-aprofundamento)
     - [Teoria](#teoria)
@@ -49,7 +49,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ## Legenda
 
-### Língua
+### Idioma
 
 - :brazil: - conteúdo em português
 - :us: - conteúdo em inglês
