@@ -68,6 +68,10 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - :mortar_board: - conteúdo avançado
 - :woman_shrugging: - conteúdo misto
 
+### Custo
+- :free: - conteúdo gratuito
+- :heavy_dollar_sign: - adquirido mediante pagamento
+
 ## Teoria
 
 ### Ciência da computação
