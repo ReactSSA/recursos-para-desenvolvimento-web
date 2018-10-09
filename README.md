@@ -94,6 +94,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Promises - Workshop NodeSchool](https://github.com/stevekane/promise-it-wont-hurt) :us: :keyboard: :free:
 - [Introdução a ES6 - Workshop NodeSchool](https://github.com/yosuke-furukawa/tower-of-babel) :us: :keyboard: :free:
 - [Javascript best practices - Workshop NodeSchool](https://github.com/excellalabs/js-best-practices-workshopper) :us: :keyboard: :free:
+- [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) :us: :movie_camera: :heavy_dollar_sign:
 
 #### Typescript
 
