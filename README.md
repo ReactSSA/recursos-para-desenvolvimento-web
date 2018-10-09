@@ -79,6 +79,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Ciência da computação
 
 - [Desafios interativos de programação](https://github.com/donnemartin/interactive-coding-challenges) :us: / :flower_playing_cards: :keyboard: :clipboard: / :woman_shrugging: :free:
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) :us: / :page_facing_up: :free:
 
 ### Engenharia de software
 
