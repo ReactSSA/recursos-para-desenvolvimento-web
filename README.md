@@ -97,7 +97,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 #### Typescript
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript/) :us: :movie_camera: :heavy_dollar_sign:
 
 ### HTML
 
