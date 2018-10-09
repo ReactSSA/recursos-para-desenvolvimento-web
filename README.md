@@ -97,6 +97,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Introdução a ES6 - Workshop NodeSchool](https://github.com/yosuke-furukawa/tower-of-babel) :us: :keyboard: :free:
 - [Javascript best practices - Workshop NodeSchool](https://github.com/excellalabs/js-best-practices-workshopper) :us: :keyboard: :free:
 - [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) :us: :movie_camera: :heavy_dollar_sign:
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :us: :clipboard: :free:
 
 #### Typescript
 
@@ -145,6 +146,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Renderização condicional em React](https://medium.com/reactbrasil/renderiza%C3%A7%C3%A3o-condicional-em-react-bb8c16dddd6f) :brazil: :page_facing_up: :baby: :free:
 - [Como utilizar Error Boundaries do React](https://medium.com/reactbrasil/como-utilizar-error-boundaries-do-react-3579f040f7f1) :brazil: :page_facing_up: :school_satchel: :free:
 - [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby: :free:
+- [Entendendo a Context API do React](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7) :brazil: :clipboard: :free:
 
 #### React Native
 
@@ -166,7 +168,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### DevTools
 - [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/) :us: :movie_camera: :heavy_dollar_sign:
-
+- [Conheça o docz...](https://medium.com/reactbrasil/conheça-o-docz-sua-nova-ferramenta-para-documentar-components-em-reactjs-c5daaa58b2ad) :brazil: :clipboard: :free:
 
 ### GraphQL
 
@@ -198,7 +200,11 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Acessibilidade
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+> Ainda não temos nada. Tem algo a recomendar? Contribua!i
+
+### Continuous Integration / Delivery
+
+- [Continuous Integration e Delivery com CircleCI 2.0](https://medium.com/reactbrasil/continuous-integration-e-delivery-com-circleci-2-0-86d137ba1826) :brazil: :clipboard: :free:
 
 ### Internacionalização
 
@@ -211,5 +217,4 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Performance Web
 
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard: :free:
-
 - [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:
