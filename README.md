@@ -98,7 +98,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Javascript best practices - Workshop NodeSchool](https://github.com/excellalabs/js-best-practices-workshopper) :us: :keyboard: :free:
 - [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) :us: :movie_camera: :heavy_dollar_sign:
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) :us: :clipboard: :free:
-
+- [Eloquent JavaScript](http://eloquentjavascript.net/) :us: :baby: :book: :free:
 #### Typescript
 
 - [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript/) :us: :movie_camera: :heavy_dollar_sign:
