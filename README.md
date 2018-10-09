@@ -183,7 +183,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Bundlers
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) :us: :movie_camera: :heavy_dollar_sign:
 
 ### Versionamento
 
