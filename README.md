@@ -108,7 +108,14 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### CSS
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+#### Arquitetura
+- [ACSS - Atomic CSS ](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/) :us:
+- [BEM - Block, Element, Modifier](http://getbem.com/introduction/) :us:
+- [CSS Sustentável - Escreva CSS sem se preocupar se estilos pré-existentes causarão problemas. 
+](http://csssustentavel.com.br/) :brazil:
+- [OOCSS - Object Oriented CSS](http://github.com/stubbornella/oocss/wiki) :us:
+- [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/) :us:
+- [SUITCSS — Style tools for UI components](https://suitcss.github.io) :us:
 
 #### SASS
 
@@ -145,6 +152,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Renderização condicional em React](https://medium.com/reactbrasil/renderiza%C3%A7%C3%A3o-condicional-em-react-bb8c16dddd6f) :brazil: :page_facing_up: :baby: :free:
 - [Como utilizar Error Boundaries do React](https://medium.com/reactbrasil/como-utilizar-error-boundaries-do-react-3579f040f7f1) :brazil: :page_facing_up: :school_satchel: :free:
 - [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby: :free:
+- [Trilha React CodeNation](http://www.codenation.com.br/journey/frontend/index.html) :brazil: :school_satchel: :keyboard: :free: 
 
 #### React Native
 
@@ -157,6 +165,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 #### Redux
 
 - [Iniciando com Redux em 9 passos](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) :brazil: :page_facing_up: :free:
+- [Redux-Saga: Gerenciando efeitos e ações](https://medium.com/@oieduardorabelo/redux-saga-gerenciando-efeitos-f518a31c744e) :brazil: :page_facing_up: :school_satchel: :free:
 
 #### MobX
 
@@ -213,3 +222,5 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard: :free:
 
 - [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:
+
+- [Como perder peso no browser](https://browserdiet.com/pt/) :clipboard: :baby: :free: :brazil:
