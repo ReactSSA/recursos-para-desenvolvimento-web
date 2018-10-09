@@ -137,6 +137,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Renderização condicional em React](https://medium.com/reactbrasil/renderiza%C3%A7%C3%A3o-condicional-em-react-bb8c16dddd6f) :brazil: :page_facing_up: :baby:
 - [Como utilizar Error Boundaries do React](https://medium.com/reactbrasil/como-utilizar-error-boundaries-do-react-3579f040f7f1) :brazil: :page_facing_up: :school_satchel:
 - [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby:
+- [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a) :us: :page_facing_up: :school_satchel:
 
 #### React Native
 
