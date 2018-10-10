@@ -61,7 +61,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - :keyboard: - workshops interativos
 - :flower_playing_cards: - cartões [Anki](https://apps.ankiweb.net/) para estudo (metodologia usada pelo [Duolingo](https://www.duolingo.com/))
 - :movie_camera: - aulas em video
-- :clipboard: - outras listagens
+- :clipboard: - outros formatos
 
 ### Nível de aprofundamento
 
@@ -110,13 +110,13 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### CSS
 
 #### Arquitetura
-- [ACSS - Atomic CSS ](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/) :us:
-- [BEM - Block, Element, Modifier](http://getbem.com/introduction/) :us:
+- [ACSS - Atomic CSS ](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/) :us: :school_satchel: :page_facing_up: :free:
+- [BEM - Block, Element, Modifier](http://getbem.com/introduction/) :us: :baby: :clipboard: :free:
 - [CSS Sustentável - Escreva CSS sem se preocupar se estilos pré-existentes causarão problemas. 
-](http://csssustentavel.com.br/) :brazil:
-- [OOCSS - Object Oriented CSS](http://github.com/stubbornella/oocss/wiki) :us:
-- [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/) :us:
-- [SUITCSS — Style tools for UI components](https://suitcss.github.io) :us:
+](http://csssustentavel.com.br/) :brazil: :baby: :clipboard: :free:
+- [OOCSS - Object Oriented CSS](http://github.com/stubbornella/oocss/wiki) :us: :baby: :clipboard: :free:
+- [SMACSS - Scalable and Modular Architecture for CSS](https://smacss.com/book/) :us: :baby: :book: :free:
+- [SUITCSS — Style tools for UI components](https://suitcss.github.io) :us: :baby: :clipboard: :free:
 
 #### SASS
 
@@ -226,6 +226,5 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### Performance Web
 
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard: :free:
-- [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:
-
+- [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:  
 - [Como perder peso no browser](https://browserdiet.com/pt/) :clipboard: :baby: :free: :brazil:
