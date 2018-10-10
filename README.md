@@ -155,6 +155,8 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [React v16.2.0 Fragments](https://medium.com/reactbrasil/react-v16-2-0-fragments-de70da38b59f) :brazil: :page_facing_up: :baby: :free:
 - [Entendendo a Context API do React](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7) :brazil: :clipboard: :free:
 - [Trilha React CodeNation](http://www.codenation.com.br/journey/frontend/index.html) :brazil: :school_satchel: :keyboard: :free: 
+- [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a) :us: :page_facing_up: :school_satchel:
+
 
 #### React Native
 
@@ -191,7 +193,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Linters
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [VoidCanvas - A brief tutorial on ESLint](http://voidcanvas.com/brief-tutorial-on-eslint) :us: :page_facing_up:
 
 ### Bundlers
 
