@@ -180,6 +180,8 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### DevTools
 - [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/) :us: :movie_camera: :heavy_dollar_sign:
 - [Conheça o docz...](https://medium.com/reactbrasil/conheça-o-docz-sua-nova-ferramenta-para-documentar-components-em-reactjs-c5daaa58b2ad) :brazil: :clipboard: :free:
+- [Progressive Tooling](https://progressivetooling.com/) :us: :clipboard: :school_satchel: :free: - site que lista ferramentas pra construir e analisar sites em diferentes tópicos, de acessiblidade a service workers
+- [The Front-End Checklist](https://frontendchecklist.io/) :us: :clipboard: :school_satchel: :free:
 
 ### GraphQL
 
@@ -230,3 +232,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [PerfSchool - Workshop NodeSchool](https://github.com/bevacqua/perfschool) :us: :keyboard: :free:
 - [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) :us: :movie_camera: :heavy_dollar_sign:  
 - [Como perder peso no browser](https://browserdiet.com/pt/) :clipboard: :baby: :free: :brazil:
+
+## Outros
+
+- [Learn anything](https://learn-anything.xyz/) :us: :clipboard: :woman_shrugging: :free:
