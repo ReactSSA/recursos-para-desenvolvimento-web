@@ -43,6 +43,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
             - [Git](#git)
     - [Outros conceitos](#outros-conceitos)
         - [Acessibilidade](#acessibilidade)
+        - [Testes](#testes)
         - [Internacionalização](#internacionaliza%C3%A7%C3%A3o)
         - [SEO](#seo)
         - [Performance Web](#performance-web)
@@ -135,7 +136,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Electron
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [Elementary Electron - Workshop NodeSchool](https://github.com/workshopper/elementary-electron) :us: :keyboard: :free:
 
 ## Bibliotecas
 
@@ -213,7 +214,11 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Acessibilidade
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!i
+> Ainda não temos nada. Tem algo a recomendar? Contribua!
+
+### Testes
+
+- [Test Anything - Workshop NodeSchool](https://github.com/workshopper/test-anything) :us: :keyboard: :free:
 
 ### Continuous Integration / Delivery
 
