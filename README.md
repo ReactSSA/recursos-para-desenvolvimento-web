@@ -157,6 +157,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Entendendo a Context API do React](https://medium.com/reactbrasil/entendendo-a-context-api-do-react-criando-um-componente-de-loading-a84f84007dc7) :brazil: :clipboard: :free:
 - [Trilha React CodeNation](http://www.codenation.com.br/journey/frontend/index.html) :brazil: :school_satchel: :keyboard: :free: 
 - [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a) :us: :page_facing_up: :school_satchel:
+- [Making sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) :us: :page_facing_up: :school_satchel: :free:
 
 
 #### React Native
@@ -214,7 +215,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### Acessibilidade
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [Curso 'Acessibilidade na Web' da Udemy](https://br.udacity.com/course/web-accessibility--ud891) :brazil: :movie_camera: :school_satchel: :free:
 
 ### Testes
 
