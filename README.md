@@ -212,6 +212,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Pro Git](https://git-scm.com/book/en/v2) :us: :book: :free:
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) :us: :book: :free:
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) :us: :movie_camera: :heavy_dollar_sign:
+- [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview) :brazil: :baby: :movie_camera: :free:
 
 ## Outros conceitos
 
