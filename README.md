@@ -188,6 +188,8 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### GraphQL
 
 - [How to GraphQL](https://www.howtographql.com/basics/0-introduction/) :us: :keyboard: :free:
+- [GraphQL — A flexibilidade do formato de dados](https://medium.com/trainingcenter/graphql-os-dados-no-formato-requisitado-964f5555d467) :brazil: :page_facing_up: :free:
+- [GraphQL —  Aprendendo na prática](https://medium.com/trainingcenter/graphql-aprendendo-na-pr%C3%A1tica-569a6866065b) :brazil: :page_facing_up: :free:
 
 ### Web APIs
 
@@ -210,6 +212,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 - [Pro Git](https://git-scm.com/book/en/v2) :us: :book: :free:
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) :us: :book: :free:
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) :us: :movie_camera: :heavy_dollar_sign:
+- [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview) :brazil: :baby: :movie_camera: :free:
 
 ## Outros conceitos
 
