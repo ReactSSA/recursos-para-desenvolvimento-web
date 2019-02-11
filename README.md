@@ -189,7 +189,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 - [How to GraphQL](https://www.howtographql.com/basics/0-introduction/) :us: :keyboard: :free:
 - [GraphQL — A flexibilidade do formato de dados](https://medium.com/trainingcenter/graphql-os-dados-no-formato-requisitado-964f5555d467) :brazil: :page_facing_up: :free:
-- [GraphQL  —  Aprendendo na prática](https://medium.com/trainingcenter/graphql-aprendendo-na-pr%C3%A1tica-569a6866065b) :brazil: :page_facing_up: :free:
+- [GraphQL —  Aprendendo na prática](https://medium.com/trainingcenter/graphql-aprendendo-na-pr%C3%A1tica-569a6866065b) :brazil: :page_facing_up: :free:
 
 ### Web APIs
 
