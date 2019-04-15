@@ -175,7 +175,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 #### MobX
 
-- [Uma introdução a MobX](https://victormagalhaes.codes/post/mobx-tutorial/) :brazil: :page_facing_up: :free:
+- [Uma introdução a MobX](https://victormagalhaes.codes/posts/mobx-tutorial/) :brazil: :page_facing_up: :free:
 
 ## Ferramentas
 
