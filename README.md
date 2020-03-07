@@ -106,7 +106,7 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 
 ### HTML
 
-> Ainda não temos nada. Tem algo a recomendar? Contribua!
+- [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc) :us: / :movie_camera: / :baby: / :free:
 
 ### CSS
 
