@@ -107,6 +107,8 @@ Achou algum recurso interessante? Escreveu um post? Contribua com o projeto!
 ### HTML
 
 - [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc) :us: / :movie_camera: / :baby: / :free:
+- [The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/) :us: / :page_facing_up: / :baby: / :free:
+- [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) :brazil: / :page_facing_up: / :baby: / :free:
 
 ### CSS
 
